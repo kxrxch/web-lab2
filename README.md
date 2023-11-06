@@ -1,2 +1,2 @@
 
-Ссылка на сайт [lab-2](kxrxch.github.io/web-lab2/).
+Ссылка на сайт [тут](kxrxch.github.io/web-lab2/).
